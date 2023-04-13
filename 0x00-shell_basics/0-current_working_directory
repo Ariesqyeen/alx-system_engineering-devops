@@ -1,2 +1,2 @@
-#!/bib/bash
-echo 'pwd'
+#!/bin/bash
+echo 'pwd' \n
