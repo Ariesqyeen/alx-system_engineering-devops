@@ -1,0 +1,1 @@
+commans in shell redirections
